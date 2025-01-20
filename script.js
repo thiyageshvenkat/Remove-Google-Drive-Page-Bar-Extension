@@ -1,0 +1,1 @@
+window.document.getElementsByClassName("ndfHFb-c4YZDc-q77wGc")[0].remove();

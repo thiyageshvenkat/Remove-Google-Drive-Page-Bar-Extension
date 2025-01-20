@@ -1,0 +1,11 @@
+{
+    "name": "Remove/Enable Page Bar",
+    "version": "1.0.0",
+    "description": "remove that irritating bar that shows page number",
+    "manifest_version": 3,
+    "author": "TV",
+    "content_scripts": [{
+        "js": ["script.js"],
+        "matches": ["https://drive.google.com/*"]
+      }]
+}
